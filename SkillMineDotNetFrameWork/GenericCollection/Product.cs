@@ -19,11 +19,11 @@ namespace SkillMineDotNetFrameWork.GenericCollection
         }
 
 
-       /* public static void Main(string[] args)
+        public static void Main(string[] args)
         {
 
             List<Product> l = new List<Product>();
-            
+
             l.Add(new Product { Id = 100, Name = "pen", Price = 5000 });
             l.Add(new Product { Id = 101, Name = "bag", Price = 1500 });
             l.Add(new Product { Id = 102, Name = "pecile", Price = 5000 });
@@ -36,12 +36,12 @@ namespace SkillMineDotNetFrameWork.GenericCollection
             Console.WriteLine("price less than 2000rs............");
             foreach (Product p in l)
             {
-                if(p.Price<2000)
-                Console.WriteLine(p);
+                if (p.Price < 2000)
+                    Console.WriteLine(p);
             }
 
 
-        }*/
+        }
 
     }
 }
