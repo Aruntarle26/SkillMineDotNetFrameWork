@@ -47,8 +47,10 @@
     <Compile Include="AbtractClassLearn\MainShape.cs" />
     <Compile Include="AbtractClassLearn\Rectangle.cs" />
     <Compile Include="AbtractClassLearn\Shape.cs" />
+    <Compile Include="Array2D\MaxOfEachRow.cs" />
     <Compile Include="ArrayMethod\ArrayMethods.cs" />
     <Compile Include="ArrayMethod\HalfArraySwap.cs" />
+    <Compile Include="ArrayMethod\PairElementSum.cs" />
     <Compile Include="ArrayOfObject\Employee.cs" />
     <Compile Include="ArrayOfObject\EmployeeArray.cs" />
     <Compile Include="ArrayOfObject\Student.cs" />
@@ -66,8 +68,10 @@
     <Compile Include="Keywords\OutKeyword.cs" />
     <Compile Include="Keywords\ParamsKeyword.cs" />
     <Compile Include="Keywords\ReferanceKeyword.cs" />
+    <Compile Include="LogicalProgram\FibbonacySeries.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StringStudy\AnagramString.cs" />
     <Compile Include="StringStudy\CheckPalindromString.cs" />
     <Compile Include="StringStudy\MethodString.cs" />
     <Compile Include="StringStudy\OccuranceOfEachWord.cs" />

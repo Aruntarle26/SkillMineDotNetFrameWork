@@ -19,7 +19,7 @@ namespace SkillMineDotNetFrameWork.GenericCollection
         }
 
 
-        public static void Main(string[] args)
+       /* public static void Main(string[] args)
         {
 
             List<Product> l = new List<Product>();
@@ -41,7 +41,7 @@ namespace SkillMineDotNetFrameWork.GenericCollection
             }
 
 
-        }
+        }*/
 
     }
 }
