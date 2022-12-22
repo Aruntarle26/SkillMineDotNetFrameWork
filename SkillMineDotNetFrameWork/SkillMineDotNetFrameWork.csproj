@@ -70,6 +70,7 @@
     <Compile Include="DeleGate\MulticastDelegates.cs" />
     <Compile Include="EnumStudy\Department.cs" />
     <Compile Include="EnumStudy\Employee.cs" />
+    <Compile Include="EventAndDelegations\StudentResult.cs" />
     <Compile Include="ExceptionStudy\CustomMinimumAgeException.cs" />
     <Compile Include="ExceptionStudy\CustomNullNameException.cs" />
     <Compile Include="ExceptionStudy\TryCatchSimple.cs" />
