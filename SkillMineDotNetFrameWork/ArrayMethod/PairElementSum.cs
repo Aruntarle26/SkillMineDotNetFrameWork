@@ -14,6 +14,7 @@ namespace SkillMineDotNetFrameWork.ArrayMethod
             {
                 for (int j = i+1; j< a.Length; j++)
                 {
+                    
                     if((a[i]+a[j])==n)
                     {
                         Console.WriteLine("("+a[i] + "," + a[j]+")");
@@ -22,12 +23,14 @@ namespace SkillMineDotNetFrameWork.ArrayMethod
             }
 
         }
-        /*static void Main(string[]args)
+        
+        /*static void Main(string[] args)
         {
             int n = 7;
             int[] a = new int[] { 4, 5, 7, 1, 2, 3, 0 };
             PairElementSum p = new PairElementSum();
-            p.FindPair(n, a);
+             p.FindPair(n, a);
+            
         }*/
     }
 }
